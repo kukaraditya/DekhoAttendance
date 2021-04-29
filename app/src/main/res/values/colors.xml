@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">@android:color/white</color>
+    <color name="colorPrimaryDark">#000923</color>
+    <color name="colorAccent">#000923</color>
+    <color name="themeColor">#11CFC5</color>
+
+    <color name="blue_grey_400">#78909C</color>
+    <color name="light_grey_400">#E6E6E6</color>
+    <color name="light_green_700">#689F38</color>
+    <color name="gray">#BFBFBF</color>
+    <color name="blue">#4286f4</color>
+    <color name="red">#f44242</color>
+    <color name="grayDark">#A9A9A9</color>
+    <color name="greenDark">#026c45</color>
+
+    <color name="color_ripple">#1f415FA0</color>
+
+    <!-- Color for Swipe Refresh Layout -->
+    <color name="color_transparent">#00FFFFFF</color>
+    <color name="transparent_color">#00000000</color>
+
+    <color name="color_accent">#7c4dff</color>
+    <color name="color_success">#3CCD88</color>
+    <color name="color_error">#f44336</color>
+
+    <!--colors for modern ui-->
+    <color name="whiteTextColor">#fff</color>
+    <color name="primaryTextColor">#020545</color>
+    <color name="loginBkColor">#f0f0f0</color>
+
+    <color name="toolbar_color_control_normal">#FFFFFF</color>
+    <color name="option_text">#727784</color>
+
+
+    <color name="textred">#D80000</color>
+
+    <!--colros for card-->
+    <color name="whiteCardColor">#fff</color>
+    <color name="appmaincolor">#020545</color>
+
+
+
+
+    <color name="app_theme_color">#f70000</color>
+    <color name="app_bg_color">#FFF3F4F7</color>
+    <color name="app_view_color">#6ca0a1a3</color>
+    <color name="app_text_color">#415163</color>
+    <color name="app_log_bg">#d6dfe4</color>
+    <color name="app_shadows">#50c9ccd1</color>
+    <color name="app_shadowss">#30c9ccd1</color>
+    <color name="app_shadow">#2ffa6c6c</color>
+    <color name="app_log">#424e65</color>
+    <color name="app_logs">#f5f6f8</color>
+    <color name="app_edits">#888e97</color>
+    <color name="app_editss">#c9ccd1</color>
+    <color name="my_order_bgs">#f9f9f9</color>
+    <color name="my_order_text">#2a2a2a</color>
+    <color name="detail_text">#373737</color>
+    <color name="list_bg">#f1f1f1</color>
+    <color name="green">#28B463</color>
+    <color name="view">#cacaca</color>
+    <color name="payment_bg">#f6f6f6</color>
+    <color name="detail_bg">#fe5722</color>
+    <color name="shasow">#ffc9b7</color>
+    <color name="txt">#919191</color>
+    <color name="txt1">#595858</color>
+    <color name="view1">#8c8a8a</color>
+    <color name="menu_txt">#36455d</color>
+    <color name="menu_txt1">#424c5a</color>
+    <color name="review_color">#bae9e6</color>
+    <color name="pay_color">#909194</color>
+    <color name="indicater_bg">#00333333</color>
+    <color name="select_bg">#80ffffff</color>
+    <color name="full_view_bg">#80FFFFFF</color>
+    <color name="out_of_stock">#FF0000</color>
+    <color name="selected">#ffdd4544</color>
+    <color name="unselected">#B3CCCBCB</color>
+    <color name="fb_color">#475993</color>
+    <color name="darkTextColor">#020000</color>
+    <color name="contentTextColor">#020000</color>
+    <color name="register_bk_color">#11CFC5</color>
+    <color name="login_bk_color">#fff</color>
+    <color name="dashboard_subtitle">#B7B7CC</color>
+    <color name="frutorial_title">#4c4c4c</color>
+    <color name="back_courses">#f8fafb</color>
+    <color name="whiteBodyColor">#FCFCFC</color>
+
+</resources>
